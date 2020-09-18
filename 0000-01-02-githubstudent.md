@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to my new slide!"
+title: "Welcome to my git hub tutor side!"
 ---
-This is teach by my teacher
+This is my awsome slides!
 Use the left arrow to go prvious cmd
